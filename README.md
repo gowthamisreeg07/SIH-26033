@@ -48,11 +48,11 @@ The Farm2Door platform will be developed using modern web technologies and artif
 - Development Environment: Visual Studio Code and GitHub.
 These technologies will provide a user-friendly, scalable and efficient platform.
 2.2 Methodology and implementation
-Paste this:
+
 
 The implementation begins with user registration, where farmers and buyers create their accounts. Farmers can upload product details, availability, quantity and prices. Buyers can browse the marketplace and place orders. The backend processes the orders and stores information in the database. AI algorithms analyze previous sales and market trends to predict product demand and recommend suitable prices. Finally, the logistics module helps arrange deliveries and identify efficient transportation routes.
 2.3 Prototype details
-Paste this:
+
 
 The proposed prototype consists of the following modules:
 1. Farmer Dashboard – Allows farmers to register, upload products and manage orders.
@@ -61,6 +61,9 @@ The proposed prototype consists of the following modules:
 4. AI Prediction Module – Predicts product demand using historical data.
 5. Logistics Module – Helps manage deliveries and optimize routes.
 6. Admin Dashboard – Allows administrators to manage users, products and transactions.
+<img width="2160" height="2338" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/997031ac-9ff6-4aec-aef2-49c5cbfc084a" />
+
+
 ## Feasibility and Viability
 Farm2Door is technically and economically feasible because it uses easily accessible technologies such as Python, HTML, CSS, JavaScript and MySQL. Open-source tools reduce development costs. The platform can be accessed through smartphones and computers, making it convenient for farmers and consumers. It can initially be implemented in a small region and expanded to larger agricultural markets in the future.
 3.2 Potential challenges and risks
